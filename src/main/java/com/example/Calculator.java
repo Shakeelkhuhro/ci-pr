@@ -1,3 +1,3 @@
 public int add(int a, int b) {
-    return a - b; // Bug!
+    return a + b; // Fixed
 }
